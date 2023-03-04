@@ -16,10 +16,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 
 <br />
-
----
-
 [discord]: https://discord.gg/W4kVcsw7EB
 [youtube]: http://yt.imdat4fun.de/
 
----
