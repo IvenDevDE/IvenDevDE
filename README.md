@@ -1,7 +1,6 @@
 ### Hi there, I'm IvenDev 👋
 
-[<img align="left" alt="IvenDev | Discord" width="22px" src="https://cdn.discordapp.com/attachments/841718914966355978/903971044665229312/wzKCgoKCgoKCjoX9UvauUeGAfLElEAAAAASUVORK5CYII.png" />]
-[<img align="left" alt="IvenDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="IvenDev | Discord" width="22px" src="https://cdn.discordapp.com/attachments/841718914966355978/903971044665229312/wzKCgoKCgoKCjoX9UvauUeGAfLElEAAAAASUVORK5CYII.png" />
 
 ## I'm a Developer, and Teacher!!
 - 🌱 I’m currently learning Java 
