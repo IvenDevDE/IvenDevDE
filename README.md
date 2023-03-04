@@ -17,6 +17,6 @@
 
 <br />
 
-[discord]: https://discord.gg/W4kVcsw7EB
-[youtube]: http://yt.imdat4fun.de/
+[discord]: https://discord.gg/KExxsdxVGd
+[youtube]: http://ivendev/
 
