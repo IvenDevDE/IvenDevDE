@@ -1,6 +1,6 @@
 ### Hey, I'm IvenDev aka Iven 👋
 
-- 🌱 I’m currently learning Kotlin and C##
+- 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/iven_real/) or [E-Mail](github@ib-intermedia.de)
 
 ## Languages and Tools:
