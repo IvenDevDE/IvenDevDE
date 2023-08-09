@@ -9,7 +9,6 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 <code><img height="30" src="https://i0.wp.com/songbaze.com.ng/wp-content/uploads/2016/02/java-runtime-environment-11-535x535.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
-<code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 
 ### 
