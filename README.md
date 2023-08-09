@@ -1,14 +1,19 @@
-### Hey, I'm IvenDev aka Iven 👋
+### Hey, I'm Iven 👋
 
 - 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/iven_real/) or [E-Mail](github@ib-intermedia.de)
 
-## Languages and Tools:
+### Languages and Tools  
 
-<p align="left"> 
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/1387/1387539.png"></code>
-<code><img height="40" src="https://th.bing.com/th/id/OIP.9qMqWDKOpvD9oRRCel5ksQHaHa?pid=ImgDet&rs=1"></code>
-<code><img height="40" src="https://artarasaneh.ir/academy/wp-content/uploads/2018/11/12.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0"></code>
+<code><img height="30" src="https://i0.wp.com/songbaze.com.ng/wp-content/uploads/2016/02/java-runtime-environment-11-535x535.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+
+### 
+<a href="https://github.com/IvenDev25">
+  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IvenDev25&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="IvenDev's Github Stats" />
 
