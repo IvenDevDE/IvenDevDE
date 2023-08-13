@@ -1,7 +1,7 @@
 ### Hey, I'm Iven 👋
 
 - 🌱 I’m currently learning **Kotlin.**
-- 📫 How to reach me: [Instagram](https://www.instagram.com/iven_real/) or [Mail](git@ibstudios.de)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/iven.real/) or [Mail](git@ibstudios.de)
 
 ### Languages and Tools  
 
