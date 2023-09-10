@@ -1,4 +1,4 @@
-### Hey, I'm Iven 👋
+### Hey, there 👋
 
 - 🌱 I’m currently learning **Kotlin.**
 - 📫 How to reach me: [Instagram](https://www.instagram.com/iven.real/) or [Mail](git@ibstudios.de)
