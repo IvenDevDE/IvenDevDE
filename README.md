@@ -14,8 +14,3 @@
 <code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg"></code>
 
-### 
-<a href="https://github.com/IvenDev25">
-  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IvenDev25&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="IvenDev's Github Stats" />
-
