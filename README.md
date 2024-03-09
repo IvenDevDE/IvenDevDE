@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-- 🔭 I’m currently working at Amuria
+- 🔭 I’m currently working at AmCompany Group
 - 📫 How to reach me: [Instagram](https://www.instagram.com/iven.real/) or [Mail](git@ibstudios.de)
 
 ### Languages and Tools:
