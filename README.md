@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-- 🔭 I’m currently working at SpacePulse Group
+- 🔭 I’m currently working at SuchtNet
 - 📫 How to reach me: [Instagram](https://www.instagram.com/iven.real/) or [Mail](git@ibstudios.de)
 
 ### Languages and Tools:
