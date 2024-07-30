@@ -1,6 +1,6 @@
 ### Hey, there 👋
 
-- 🔭 I’m currently working at StandardSucht.net
+- 🔭 I’m currently working at @StandardSucht
 - 📫 How to reach me: [Instagram](https://www.instagram.com/iv3n_b21/) or [Mail](support@standardsucht.net)
 
 ### Languages and Tools:
