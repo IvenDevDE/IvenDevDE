@@ -19,8 +19,5 @@
 
 <a href="https://github.com/IvenDevDE">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IvenDevDE&include_all_commits=true&show_icons=true&theme=nord&count_private=true" alt="IvenDevDe's Github Stats" />
-  
 </a>
-
-###
 
