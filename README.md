@@ -1,6 +1,5 @@
 ### Hey, there 👋
 
-- 🔭 I’m currently working at [@STANDARDSUCHT](https://github.com/standardsucht)
 - 📫 How to reach me: [Instagram](https://www.instagram.com/iv3n_b21/) or [Mail](iven-bacic@t-online.de)
 
 ### Languages and Tools:
